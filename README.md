@@ -1,10 +1,15 @@
 # Operating System Assignment
 
 Họ tên sinh viên: Vũ Quốc Oai
+
 MSSV: 20172741
+
 Mã môn học: ET4291
+
 Mã lớp: 124887
+
 Kì: 20202
+
 
 Repository này chứa các file code đã sửa đổi để hoàn thành các yêu cầu của bài Alarm Clock, Project 1 Synchronization. Các file đã sửa đổi bao gồm:
 1. thread.c và thread.h trong "src/threads/"
@@ -27,4 +32,6 @@ Cụ thể các phần đã thay đổi code bao gồm
 
 3. Trong "src/devices/timer.c"
 - Line 105-118: chỉnh sửa hàm timer_sleep()
-- Line 203: thread_foreach (sleeping_time_decrease, NULL);
+- Line 203: gọi đến hàm thread_foreach (sleeping_time_decrease, NULL) với hàm sleeping_time_decrease được định nghĩa trong "src/threads/thread.c"
+
+Phần mô tả code được sửa đổi c như ý tưởng chung được trình bày chi tiết trong báo cáo. 
