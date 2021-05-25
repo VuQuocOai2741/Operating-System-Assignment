@@ -11,6 +11,7 @@ Repository này chứa các file code đã sửa đổi để hoàn thành các 
 2. timer.c trong "src/devices"
 
 Các phần code đã thay đổi được đặt trong cặp comments
+
 /* code modified */
 
 /* code modified */
