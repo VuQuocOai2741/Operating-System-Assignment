@@ -15,3 +15,16 @@ Các phần code đã thay đổi được đặt trong cặp comments
 /* code modified */
 
 /* code modified */
+
+Cụ thể các phần đã thay đổi code bao gồm
+1. Trong "src/threads/thread.c"
+- Line 206: khởi tạo cho biến time_left_to_sleep
+- Line 325-336: định nghĩa hàm sleeping_time_decrease
+
+2. Trong "src/threads/thread.h"
+- Line 103: khai báo biến time_left_to_sleep
+- Line 140: khai báo hàm sleeping_time_decrease
+
+3. Trong "src/devices/timer.c"
+- Line 105-118: chỉnh sửa hàm timer_sleep()
+- Line 203: thread_foreach (sleeping_time_decrease, NULL);
