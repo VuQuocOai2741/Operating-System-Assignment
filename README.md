@@ -34,4 +34,4 @@ Cụ thể các phần đã thay đổi code bao gồm
 - Line 105-118: chỉnh sửa hàm timer_sleep()
 - Line 203: gọi đến hàm thread_foreach (sleeping_time_decrease, NULL) với hàm sleeping_time_decrease được định nghĩa trong "src/threads/thread.c"
 
-Phần mô tả code được sửa đổi c như ý tưởng chung được trình bày chi tiết trong báo cáo. 
+Phần mô tả code được sửa đổi cũng như ý tưởng chung được trình bày chi tiết trong báo cáo. 
