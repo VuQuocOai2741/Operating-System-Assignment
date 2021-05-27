@@ -45,17 +45,17 @@ Hầu hết các nguồn tài liệu tham khảo trong quá trình làm đề t�
   + https://www.youtube.com/watch?v=KqgMGZyiLnU
                                    
 - Các tài liệu để hiểu rõ hơn về tiến trình và luồng: 
-+ https://www.youtube.com/watch?v=exbKr6fnoUw
-+ https://www.youtube.com/watch?v=LOfGJcVnvAk
+  + https://www.youtube.com/watch?v=exbKr6fnoUw
+  + https://www.youtube.com/watch?v=LOfGJcVnvAk
                                                       
 - Các tài liệu để hiểu rõ về Process Synchronization problems: 
-+ https://www.youtube.com/watch?v=BSX1YEoCVgA
-+ https://www.youtube.com/watch?v=LRiN3DJdskA
-+ https://www.youtube.com/watch?v=s8_ZxcG7Jco&list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
+  + https://www.youtube.com/watch?v=BSX1YEoCVgA
+  + https://www.youtube.com/watch?v=LRiN3DJdskA
+  + https://www.youtube.com/watch?v=s8_ZxcG7Jco&list=PLbu9W4c-C0iAGUc7dQlqXIsXkGnHMaTEz
                                                                
 - Các tài liệu để hiểu rõ hơn về vai trò của ngắt timer: 
-+ https://www.youtube.com/watch?v=PtTVe0zfg_M
-+ https://www.youtube.com/watch?v=m5_pFID-f-M
+  + https://www.youtube.com/watch?v=PtTVe0zfg_M
+  + https://www.youtube.com/watch?v=m5_pFID-f-M
                                                          
 - Tài liệu để hiểu rõ về cách debug trong Pintos: 
   https://www.youtube.com/watch?v=4C8J6jLPJPc
