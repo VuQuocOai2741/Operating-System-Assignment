@@ -34,4 +34,17 @@ Cụ thể các phần đã thay đổi code bao gồm
 - Line 105-118: chỉnh sửa hàm timer_sleep()
 - Line 203: gọi đến hàm thread_foreach (sleeping_time_decrease, NULL) với hàm sleeping_time_decrease được định nghĩa trong "src/threads/thread.c"
 
+
+Hầu hết các nguồn tài liệu tham khảo trong quá trình làm đề tài là các nguồn online. Các nguồn tham khảo bao gồm:
+- Trang web chính thức của Stanford: https://web.stanford.edu/class/cs140/projects/pintos/pintos_2.html#SEC25
+- Các tài liệu để hiểu về ngắt: https://www.youtube.com/watch?v=rnGVincwk30
+                                https://www.youtube.com/watch?v=V1TJ6b6_EjM
+                                https://www.youtube.com/watch?v=KqgMGZyiLnU
+- Tài liệu để hiểu rõ hơn về tiến trình và luồng: https://www.youtube.com/watch?v=exbKr6fnoUw
+- Các tài liệu để hiểu rõ hơn về vai trò của ngắt timer: https://www.youtube.com/watch?v=PtTVe0zfg_M
+                                                         https://www.youtube.com/watch?v=m5_pFID-f-M
+- Tài liệu để hiểu rõ về cách debug trong Pintos: https://www.youtube.com/watch?v=4C8J6jLPJPc
+- Ngoài các tài liệu tham khảo nêu trên, tài liệu tham khảo chính gồm các slides bài giảng và các notes trong quá trình học trên lớp
+                                                         
+
 Phần mô tả code được sửa đổi cũng như ý tưởng chung được trình bày chi tiết trong báo cáo. 
