@@ -57,8 +57,6 @@ Hầu hết các nguồn tài liệu tham khảo trong quá trình làm đề t�
   + https://www.youtube.com/watch?v=PtTVe0zfg_M
   + https://www.youtube.com/watch?v=m5_pFID-f-M
                                                          
-- Tài liệu để hiểu rõ về cách debug trong Pintos: 
-  https://www.youtube.com/watch?v=4C8J6jLPJPc
 
 - Ngoài các tài liệu tham khảo nêu trên, tài liệu tham khảo chính gồm các slides bài giảng và các notes trong quá trình học trên lớp
                                                         
